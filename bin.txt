@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            text-align: center;
+            margin-top: 30px;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-top: 40px;
+        }
+        .card {
+            background-color: white;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            padding: 30px;
+            margin: 15px;
+            width: 200px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: 0.3s;
+        }
+        .card:hover {
+            box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+        }
+        .card a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Admin Dashboard</h1>
+
+<div class="container">
+    <div class="card"><a href="manage_buyer.php">Buyer Registration</a></div>
+    <div class="card"><a href="manage_cart.php">Cart</a></div>
+    <div class="card"><a href="manage_categories.php">Categories</a></div>
+    <div class="card"><a href="manage_consumer.php">Consumer</a></div>
+    <div class="card"><a href="manage_farmer.php">Farmer Registration</a></div>
+    <div class="card"><a href="manage_orders.php">Orders</a></div>
+    <div class="card"><a href="manage_products.php">Products</a></div>
+</div>
+
+</body>
+</html>
