@@ -3,9 +3,7 @@ session_start();
 
 // Clear all session variables
 $_SESSION = array();
-
-// Destroy the session
-session_destroy();
+session_destroy(); // Destroy the session
 
 // Redirect to login page
 header("Location: admin_login.php");
