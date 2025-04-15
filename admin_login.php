@@ -4,7 +4,6 @@ $host = "localhost";
 $username = "root";
 $password = "";
 $dbname = "impulse101";
-
 $conn = mysqli_connect($host, $username, $password, $dbname);
 $error = "";
 
