@@ -105,16 +105,6 @@ $database = 'veggie_hub';
 
 ---
 
-## 📌 Screenshots
-
-*You can add screenshots here for better presentation. Example:*
-
-| Admin Dashboard | Product Management | Order Management |
-|-----------------|-------------------|------------------|
-| ![Admin](screenshots/admin_dashboard.png) | ![Products](screenshots/products.png) | ![Orders](screenshots/orders.png) |
-
----
-
 ## 📝 Project Details
 
 - **Project Type:** College Mini Project
@@ -144,7 +134,7 @@ This project is for educational purposes only.
 
 ---
 
-> **Developed by*
-- [ayan-x1](https://github.com/ayan-x1)
-- [NagdevHarsh](http://github.com/NagdevHarsh)
--[deep3012-patel](https://github.com/deep3012-patel)
+> *Developed by*
+ [ayan-x1](https://github.com/ayan-x1)
+ [NagdevHarsh](http://github.com/NagdevHarsh)
+ [deep3012-patel](https://github.com/deep3012-patel)
